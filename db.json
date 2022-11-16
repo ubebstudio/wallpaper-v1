@@ -1,5 +1,5 @@
 {
-  "seventeen": {
+  "seventeen": [ {
     "username": "appkpop",
     "album": [
       "Seventeen",
@@ -40,4 +40,5 @@
       "STARTAPP"
     ]
   }
+  ]
 }
