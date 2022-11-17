@@ -41,34 +41,5 @@
     ]
   }
   
-  "nct_dream" : {
-  "username": "appkpop",
-  "album": [
-    "NCT Dream", "Mark","Renjun","Jeno","Haechan","Jaemin","Chenle","Jisung"
-  ],
-  "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-4680921445869325/4915356153",
-  "admob_interstitial_id": "ca-app-pub-4680921445869325/2289192817",
-  "admob_native_id": "ca-app-pub-4680921445869325/1576228016",
-  "admob_rewarded_id": "",
-  "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "ca-app-pub-4680921445869325/4617651911",
-  "admob_hpk_1": "",
-  "admob_hpk_2": "",
-  "admob_hpk_3": "",
-  "admob_hpk_4": "",
-  "admob_hpk_5": "",
-  "startapp_app_id": "",
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
-  "interstitial_inverval": 10,
-  "list_ads": [
-    "ADMOB",
-    "UNITY",
-    "STARTAPP"
-  ]
-}
 
-  
 }
