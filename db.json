@@ -62,7 +62,7 @@
   "unity_id": "",
   "unity_banner": "",
   "unity_interstitial": "",
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 3,
   "list_ads": [
     "ADMOB",
     "UNITY",
